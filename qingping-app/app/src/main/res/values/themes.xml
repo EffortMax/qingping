@@ -1,7 +1,0 @@
-<resources>
-    <style name="Theme.QingPing" parent="Theme.Material3.DayNight.NoActionBar">
-        <item name="colorPrimary">#1A9FFF</item>
-        <item name="colorSecondary">#34C759</item>
-        <item name="android:statusBarColor">?attr/colorSurface</item>
-    </style>
-</resources>
